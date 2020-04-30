@@ -2,13 +2,30 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
 }
 
 /*STYLING FOR MAIN-CONTAINER*/
-.main-container{
-    
+.main-container {
+  display: flex;
 }
 
 /*STYLING FOR MAIN-NAV*/
 
-.main-nav
+.main-nav {
+  width: 25vw;
+  color: white;
+}
+
+.main-nav ul li {
+  background-color: rgb(83, 15, 83);
+  padding: 1em;
+}
+
+/*STYLING FOR MOVIES*/
+.movies {
+}
+
+img {
+  width: 20vw;
+}

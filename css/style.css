@@ -18,14 +18,19 @@
 }
 
 .main-nav ul li {
-  background-color: rgb(83, 15, 83);
+  /* background-color: rgb(83, 15, 83); */
   padding: 1em;
 }
 
 /*STYLING FOR MOVIES*/
-.movies {
+.movie {
+  background-color: rgb(83, 15, 83);
 }
-
+.one {
+  background-color: rgb(161, 125, 161);
+  color: rgb(27, 27, 27);
+}
+]
 img {
   width: 20vw;
 }
